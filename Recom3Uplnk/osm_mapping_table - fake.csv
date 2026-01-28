@@ -1,0 +1,6 @@
+﻿k;v;base
+highway;motorway;LINE_SKIRUN_BLACK
+highway;trunk;LINE_SKIRUN_RED
+highway;trunk_link;LINE_SKIRUN_BLUE
+highway;residential;LINE_SKIRUN_GREEN
+waterway;;LINE_WALKWAY

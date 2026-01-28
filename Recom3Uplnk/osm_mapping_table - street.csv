@@ -1,0 +1,6 @@
+﻿k;v;base
+highway;motorway;HIGHWAY_PRIMARY
+highway;trunk;HIGHWAY_SECONDARY
+highway;trunk_link;HIGHWAY_TERTIARY
+highway;residential;HIGHWAY_RESIDENTIAL
+waterway;;HIGHWAY_PRIMARY

@@ -1,0 +1,10 @@
+﻿k;v;base
+highway;motorway;HIGHWAY_PRIMARY
+highway;trunk;HIGHWAY_SECONDARY
+highway;trunk_link;HIGHWAY_TERTIARY
+highway;residential;HIGHWAY_RESIDENTIAL
+waterway;;HIGHWAY_PRIMARY
+piste:difficulty;advanced;LINE_SKIRUN_BLACK
+piste:difficulty;intermediate;LINE_SKIRUN_RED
+piste:difficulty;easy;LINE_SKIRUN_BLUE
+piste:difficulty;novice;LINE_SKIRUN_GREEN
