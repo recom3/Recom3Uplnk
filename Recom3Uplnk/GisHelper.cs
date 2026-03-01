@@ -32,7 +32,7 @@ namespace Recom3Uplnk
         }
 
         //Reverse coor
-        //https://nominatim.openstreetmap.org/reverse?format=xml&lat=37.073020&lon=-3.387628&zoom=18&addressdetails=1
+        //https://nominatim.openstreetmap.org/reverse?format=xml&lat=31.073020&lon=-6.387628&zoom=18&addressdetails=1
         public static string reverseCoor(double dbLat, double dbLon)
         {
             //string sLat = dbLat.ToString("")
