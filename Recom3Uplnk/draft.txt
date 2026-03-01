@@ -1,0 +1,4 @@
+﻿highway;trunk;HIGHWAY_SECONDARY
+highway;trunk_link;HIGHWAY_TERTIARY
+waterway;;WATERWAY
+highway;residential;HIGHWAY_RESIDENTIAL
